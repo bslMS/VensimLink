@@ -3,8 +3,7 @@ Mathematica Package for linking to Vensim models using the vensim.dll (x86).
 
 ## License
 
-Copyright © 2016 Guido Wolf Reichert
-Licensed under the European Union Public Licence (EUPL), Version 1.2 or later (the "License")
+Copyright © 2016 Guido Wolf Reichert<br/>Licensed under the European Union Public Licence (EUPL), Version 1.2 or later (the "License")
 
 You may not use this work except in compliance with the License. 
 You may obtain a copy of the License at: https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
